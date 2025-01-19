@@ -17,16 +17,8 @@ I am a passionate data analyst and data scientist enthusiast with a strong inter
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
 - **Machine Learning:** Scikit-Learn
-```
-- **Deep Learning:** TensorFlow, Keras, PyTorch
-- **Databases:** MySQL, PostgreSQL, MongoDB
-```
 - **Big Data Technologies:** Hadoop, Spark
 - **Tools:** Jupyter Notebook, Google Colab, Git
-
-## 📈 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamtyagi1306&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
@@ -36,5 +28,6 @@ I am a passionate data analyst and data scientist enthusiast with a strong inter
 
 ## 🔥 My Projects
 
+- **[Iris-Insights-A-NumPy-Analysis](<https://github.com/shubhamtyagi1306/Iris-Insights-A-NumPy-Analysis.git>))** -  Built a data analysis pipeline, performed statistical computations, and derived insights using Python and NumPy. Implemented normalization, correlation analysis, and linear algebra computations.
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about data science and analytics.
