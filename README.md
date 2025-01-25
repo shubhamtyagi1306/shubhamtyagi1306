@@ -22,12 +22,13 @@ I am a passionate data analyst and data scientist enthusiast with a strong inter
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Shubham Tyagi](https://www.linkedin.com/in/shubhamtyagi1306/)
+- LinkedIn: [Shubham Tyagi](https://www.linkedin.com/in/shubham-tyagi-40510617a/)
 - Twitter: [@shubhamtyagi1306](https://twitter.com/shubhamtyagi1306)
 - Email: [shubhamtyagi1306@gmail.com]
 
 ## 🔥 My Projects
 
 - **[Iris-Insights-A-NumPy-Analysis](<https://github.com/shubhamtyagi1306/Iris-Insights-A-NumPy-Analysis.git>))** -  Built a data analysis pipeline, performed statistical computations, and derived insights using Python and NumPy. Implemented normalization, correlation analysis, and linear algebra computations.
+- **[Online-Retail-Store-Analysis-using-Pandas ](https://github.com/shubhamtyagi1306/Online-Retail-Store-Analysis-using-Pandas.git))** -  Developed an end-to-end data analysis project using the Pandas library on a customer transactions dataset, including data cleaning, exploratory analysis, and insights generation.
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about data science and analytics.
